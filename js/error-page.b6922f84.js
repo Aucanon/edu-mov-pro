@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkedu_mobile"]=self["webpackChunkedu_mobile"]||[]).push([[468],{187:function(e,r,u){u.r(r),u.d(r,{default:function(){return i}});var n=function(){var e=this,r=e._self._c;return r("div",{staticClass:"error-page"},[e._v(" 404 找不到想要的页面... ")])},t=[],a={name:"ErrorPage"},l=a,s=u(1001),c=(0,s.Z)(l,n,t,!1,null,"55d74a0c",null),i=c.exports}}]);
